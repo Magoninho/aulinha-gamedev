@@ -1,4 +1,4 @@
-# 3 tópicos interessantes de Matemática e Física para desenvolvimento de jogos
+![Alt text](capa/capa.png)
 
 Olá! Na lição de hoje eu vou mostrar pra vocês alguns conceitos matemáticos/físicos muito utilizados nos video games. São estes:
 
