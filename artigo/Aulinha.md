@@ -44,7 +44,7 @@ E lembrando que todas essas relações também funcionam com um plano de 3 dimen
 ![Alt text](5.png)
 
 
-# II. Função Seno
+## II. Função Seno
 
 Observe esse pequeno protótipo:
 
